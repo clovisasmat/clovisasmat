@@ -1,5 +1,5 @@
-# Olá, meu nome é Clovis Antonio da Silva 👋
-![capagit](capa_redes_ciencia_dados)
+# Olá, meu nome é Clovis 👋
+![capagit](https://github.com/clovisasmat/clovisasmat/blob/main/capa_redes_ciencia_dados.png)
 
 ## Habilidades:
 * C
