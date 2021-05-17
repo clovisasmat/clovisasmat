@@ -7,8 +7,7 @@
 * Python
 
 ## Contatos:
-Linkedin
-Instagram
+[Meu Linkedin](https://www.linkedin.com/in/clovisantoniodasilva/)
 
 ## Currículo:
-Lattes
+[Meu Lattes](http://lattes.cnpq.br/6202020812188336)
